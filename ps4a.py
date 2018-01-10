@@ -15,7 +15,7 @@ SCRABBLE_LETTER_VALUES = {
 # Helper code
 # (you don't need to understand this helper code)
 
-WORDLIST_FILENAME = "C:/Users/Erkin/Desktop/Python/Wordgame/words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
